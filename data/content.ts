@@ -83,18 +83,18 @@ export const content = {
   galleryPhotos: [
     {
       src: "/photos/2.png",
-      alt: "Little her, long before us",
-      caption: "Little her, long before us",
+      alt: "",
+      caption: "",
     },
     {
       src: "/photos/3.png",
-      alt: "The first flowers I ever gave you",
-      caption: "The first flowers I ever gave you",
+      alt: "",
+      caption: "",
     },
     {
       src: "/photos/1.jpg.jpeg",
-      alt: "A moment I never want to forget",
-      caption: "A moment I never want to forget",
+      alt: "",
+      caption: "",
     },
 
   ] as Photo[],
