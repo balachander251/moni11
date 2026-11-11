@@ -21,7 +21,7 @@ export const content = {
   partnerName: "MONIKA",
   senderName: "Balachander",
   age: "20",
-  birthdayDate: "November 24",
+  birthdayDate: "November 15",
   relationshipStartDate: "November 07, 2024",
   /**
    * The anniversary date in ISO format "YYYY-MM-DD", used to compute the
@@ -39,7 +39,7 @@ export const content = {
    */
   nextMeetupDateISO: "2027-11-15" as string,
   nextMeetupLocation: "Madagadipet",
-  nextMeetupWhenLabel: "Next November",
+  nextMeetupWhenLabel: "Next Birthday",
 
   /**
    * Optional PIN code (any number of digits). When set, visitors must enter
@@ -60,7 +60,7 @@ export const content = {
   ] as string[],
 
   // --- Wishes & prayers ---
-  wishesIntro: "A few things I keep hoping for you, Bubul:",
+  wishesIntro: "A few things I keep hoping for you, Moni:",
   wishes: [
     "May you always be healthy and happy.",
     "May all your dreams come true, one by one.",
@@ -148,7 +148,7 @@ export const content = {
   hugMessage:
     "Sending you a warm hug, Bubul. Even from far away, it still feels close.",
   secretButtonLabel: "One more thing",
-  secretMessage: "I love you, Bubul, today and every day.",
+  secretMessage: "I love you, Moni, today and every day.",
   /** Tapping the generator button below shows a random line from this list. */
   sweetLines: [
     "You're my favorite notification.",
