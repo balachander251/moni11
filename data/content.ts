@@ -72,8 +72,6 @@ export const content = {
   // --- Photos ---
   heroPhoto: {
     src: "/photos/3.png",
-    alt: "",
-    caption: "💕",
   } as Photo,
   closingPhoto: {
     src: "/photos/11.jpg.jpeg",
