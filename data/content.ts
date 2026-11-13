@@ -76,7 +76,7 @@ export const content = {
     caption: "",
   } as Photo,
   closingPhoto: {
-    src: "/photos/4.jpg.jpeg",
+    src: "/photos/11.jpg.jpeg",
     alt: "Kutty angel",
     caption: "",
   } as Photo,
