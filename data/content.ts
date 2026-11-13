@@ -162,7 +162,7 @@ export const content = {
   // link (like music.youtube.com/watch?v=...) will not play; the <audio>
   // tag can only stream an actual .mp3/.ogg/.wav file.
   songUrl: "/music/about-you.mp3" as string,
-  songTitle: "MONIKA",
+  songTitle: "MONI❤️",
 };
 
 export type Content = typeof content;
