@@ -78,7 +78,7 @@ export const content = {
   closingPhoto: {
     src: "/photos/11.jpg.jpeg",
     alt: "Kutty angel",
-    caption: "",
+    caption: "🥹",
   } as Photo,
   galleryPhotos: [
     {
