@@ -131,7 +131,7 @@ export const content = {
     "This part is temporary though. This October in Malang isn't just a date on a countdown, it's us finally getting to be in the same place again.",
   ] as string[],
 
-  // --- When we meet again (bucket list for the reunion) ---
+  // --- When we meet (bucket list for the reunion) ---
   reunionBucketList: [
     "Hug you first before saying anything else.",
     "Find whatever food you've been wanting to try there.",
