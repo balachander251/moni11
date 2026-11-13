@@ -73,7 +73,7 @@ export const content = {
   heroPhoto: {
     src: "/photos/3.png",
     alt: "",
-    caption: "Happy birthday Moni💕",
+    caption: "💕",
   } as Photo,
   closingPhoto: {
     src: "/photos/11.jpg.jpeg",
