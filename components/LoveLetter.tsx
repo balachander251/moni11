@@ -10,7 +10,7 @@ export default function LoveLetter({ partnerName, senderName, paragraphs }: Love
   return (
     <section className="section section--pink" id="letter" aria-label="Love letter">
       <Reveal as="p" className="section__eyebrow">
-        A little letter
+        A Special letter
       </Reveal>
 
       <Reveal as="div" className="letter">
