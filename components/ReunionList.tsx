@@ -13,7 +13,7 @@ export default function ReunionList({ items, location }: ReunionListProps) {
         The plan
       </Reveal>
       <h2 className="section__title">
-        <KineticText text="When We Meet Again" />
+        <KineticText text="When We Meet" />
       </h2>
       <Reveal as="p" className="section__lede">
         A little list of everything I want to do with you in {location || "person"}.
