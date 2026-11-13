@@ -17,11 +17,9 @@ export default function Gallery({ photos }: GalleryProps) {
   return (
     <section className="section section--turquoise" id="gallery" aria-label="Memory gallery">
       <Reveal as="p" className="section__eyebrow">
-        Our little album
+        Angel🥹
       </Reveal>
-      <h2 className="section__title">
-        <KineticText text="Memory Gallery" />
-      </h2>
+     
 
       <div className="gallery__grid">
         {photos.map((photo, index) => (
