@@ -71,7 +71,7 @@ export const content = {
 
   // --- Photos ---
   heroPhoto: {
-    src: "/photos/1.jpg.jpeg",
+    src: "/photos/3.png",
     alt: "A cute angel",
     caption: "",
   } as Photo,
@@ -87,7 +87,7 @@ export const content = {
       caption: "",
     },
     {
-      src: "/photos/3.png",
+      src: "/photos/1.jpg.jpeg",
       alt: "",
       caption: "",
     },
