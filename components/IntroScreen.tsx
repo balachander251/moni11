@@ -155,7 +155,7 @@ export default function IntroScreen({ partnerName, onOpened }: IntroScreenProps)
         🎁
       </span>
       <h1 className="intro__title">
-        Happy Birthday🎂, <br /> {partnerName}
+        Happy Birthday🎂 <br /> {partnerName}
       </h1>
       <p className="intro__subtitle">There's a little gift I want to show you.</p>
 
