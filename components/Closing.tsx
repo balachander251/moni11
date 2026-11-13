@@ -18,7 +18,7 @@ export default function Closing({ partnerName, senderName, photo, onReplay }: Cl
       <div className="closing__title-wrap">
         <Sparkle className="closing__sparkle" />
         <h2 className="closing__title">
-          <KineticText text={`Happy Birthday🎂, ${partnerName}.`} />
+          <KineticText text={`Happy Birthday 🎂 ${partnerName}.`} />
         </h2>
       </div>
       <Reveal as="p" delay={100} className="closing__thanks">
